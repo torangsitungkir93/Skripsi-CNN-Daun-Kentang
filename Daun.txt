@@ -1,0 +1,8 @@
+
+Augmentasi 
+rotasi 1     = 30
+rotasi 2     = 60
+brightness 1 = 40
+Brightness 2 = -40
+shear 1      = 15
+shear 2      = 30
