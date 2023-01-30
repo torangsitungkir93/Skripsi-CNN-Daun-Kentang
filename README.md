@@ -1,0 +1,1 @@
+# Skripsi-CNN-Daun-Kentang
