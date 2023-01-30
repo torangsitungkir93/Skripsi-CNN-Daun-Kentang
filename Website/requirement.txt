@@ -1,0 +1,10 @@
+streamlit==0.80.0
+tensorflow==2.5.0rc1
+opencv-python==4.5.1.48
+
+#API_Key
+1.dj6uit22xa9VcAKfVdtyCemZ
+2.dj6uit22xa9VcAKfVdtyCemZ
+3.ZUqFGuGxXWHroANj7KWFA8Qr
+4.QE4uquU353XdUPpX57xsAudB
+5.TuG7oM2E1NBwojRDCS8shTGV
